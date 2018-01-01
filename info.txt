@@ -1,0 +1,2 @@
+file is saved in home/pi
+runs automatically on boot, as it has been added to profile - see http://www.raspberrypi-spy.co.uk/2015/02/how-to-autorun-a-python-script-on-raspberry-pi-boot/
